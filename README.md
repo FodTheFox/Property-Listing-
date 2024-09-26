@@ -21,14 +21,19 @@ This project focused on resolving data cleaning challenges in a synthetic proper
 
 <p align="center">
 Inspecting Data: <br/>
-<img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
+
+![Screenshot 2024-09-26 192714](https://github.com/user-attachments/assets/7c7edca6-64da-437d-816d-1be8a5d24322)
+
+
 
 Upon immediate inspection the dataset presents several challenges, including missing values, inconsistent text formats, and mixed measurement units. The most significant issue is converting measurements for the 'price per square foot' field, which had more than four different units, making it difficult to standardize the data (this was inspected by filtering)
-
+ 
 <br />
 Data Cleaning Process:  <br/>
-<img src="https://i.imgur.com/tcTyMUE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+
+![Screenshot 2024-09-26 193048](https://github.com/user-attachments/assets/1bb4f016-6ba3-4f66-bc47-4af0ec2ad79c)
+
 <br />
 
 I started by removing duplicates, clearing blanks, and standardizing column names using Excel's SUBSTITUTE, TRIM, and CLEAN functions. For price formatting, I encountered issues with text and numerical value mixing. To resolve this, I standardized all currency values under the header 'Lac' (representing the local currency) and ensured all price columns contained only numerical values."
@@ -49,7 +54,9 @@ Testing out how i can remove Lac and keep as an integer as opposed to conjoining
 
 <br />
 Completing dashboard:  <br/>
-<img src="https://i.imgur.com/JL945Ga.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+![Property Listing](https://github.com/user-attachments/assets/4bffcf0a-4717-4146-80b5-7b7e23bf5db7)
+
 <br />
 <br />
 
