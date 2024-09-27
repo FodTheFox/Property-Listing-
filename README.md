@@ -43,12 +43,6 @@ A critical part of the cleaning process was converting all property areas to squ
 
 <br />
 Transferring Data to PowerBI: <br/>
-<img src="https://i.imgur.com/nCIbXbg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Running a few more check on PowerQuery:  <br/>
-<img src="https://i.imgur.com/cdFHBiU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
 
 Testing out how i can remove Lac and keep as an integer as opposed to conjoining them together with text values 
 
