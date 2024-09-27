@@ -44,7 +44,10 @@ A critical part of the cleaning process was converting all property areas to squ
 <br />
 Transferring Data to PowerBI: <br/>
 
-Testing out how i can remove Lac and keep as an integer as opposed to conjoining them together with text values 
+
+My first time operating with PowerBI and growing accustom with utilies needed to help actualize my ideas, albeit, i had use Power query to investigate how i'd extract lac currency by using Transform and extract on the transform tab in case there'd be other ways to handle this and had mixed it in with the excel table shown above. Moreover, upon finishing the cleaning process i had to formulate a vision on how i must design the dashboard and came up with accenetuating bright coloures and a mix of pie and donut charts with a few bar charts accompanied with slicers to further increase insights that can be assessed.
+
+
 
 <br />
 Completing dashboard:  <br/>
